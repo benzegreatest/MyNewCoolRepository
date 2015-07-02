@@ -1,0 +1,20 @@
+html{
+	
+	position: relative;
+	min-height: 100%
+}
+
+body {
+	
+	/*margin bottom by footer heigh */
+	margin-bottom: 60px;
+
+}
+
+.footer {
+	position:absolute;
+	bottom: 0;
+	width: 100%;
+	/*set fixed heigh of footer */
+	height: 60px;
+}
